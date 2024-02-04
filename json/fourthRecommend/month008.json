@@ -1,0 +1,26 @@
+
+{
+  "documents": [
+    {
+      "authors": [
+        "한성희"
+      ],
+      "contents": "딸이 벌써 마흔 살이 되어 있었던 것이다. 사람들은 보통 마흔 살에 지금이 새로운 도전을 할 수 있는 마지막 기회일지 모른다는 초조함에 휩싸인다. 어영부영하다가는 인생이 허무하게 지나가 버릴 것 같아 불안해하는 것이다. 게다가 세상은 지금껏 그 나이 먹도록 해 놓은 게 뭐가 있느냐고 다그친다. 그러다 보니 하루하루 열심히 살아가는 대다수 마흔 살은 스스로를 자랑스럽게 생각하기는커녕 자괴감에 빠져든다. 그래서일까. 딸이 당연히 알아서 잘 살고 있으리라 생각",
+      "datetime": "2024-01-24T00:00:00.000+09:00",
+      "isbn": "1190538652 9791190538657",
+      "price": 18000,
+      "publisher": "메이븐",
+      "sale_price": 16200,
+      "status": "정상판매",
+      "thumbnail": "https://search1.kakaocdn.net/thumb/R120x174.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flbook%2Fimage%2F6535574%3Ftimestamp%3D20240128165614",
+      "title": "벌써 마흔이 된 딸에게",
+      "translators": [],
+      "url": "https://search.daum.net/search?w=bookpage&bookId=6535574&q=%EB%B2%8C%EC%8D%A8+%EB%A7%88%ED%9D%94%EC%9D%B4+%EB%90%9C+%EB%94%B8%EC%97%90%EA%B2%8C"
+    }
+  ],
+  "meta": {
+    "is_end": true,
+    "pageable_count": 1,
+    "total_count": 1
+  }
+}

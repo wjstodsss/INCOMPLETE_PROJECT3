@@ -1,0 +1,52 @@
+{
+    "documents": [
+      {
+        "authors": [
+            ""
+          ],
+          "contents": "",
+          "datetime": "",
+          "isbn": "",
+          "price": 0,
+          "publisher": "",
+          "sale_price": 0,
+          "status": "",
+          "thumbnail": "https://media.ktown4u.com/products/resize/thumbnail/2023/12/19/7o0Ihl.png",
+          "title": "",
+          "translators": [],
+          "url": ""
+      },
+      {
+        "authors": [
+            ""
+          ],
+          "contents": "",
+          "datetime": "",
+          "isbn": "",
+          "price": 0,
+          "publisher": "",
+          "sale_price": 0,
+          "status": "",
+          "thumbnail": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788933871751.jpg",
+          "title": "",
+          "translators": [],
+          "url": ""
+      },
+      {
+        "authors": [
+          ""
+        ],
+        "contents": "",
+        "datetime": "",
+        "isbn": "",
+        "price": 0,
+        "publisher": "",
+        "sale_price": 0,
+        "status": "",
+        "thumbnail": "https://qi-b.qoo10cdn.com/milti/renewPark/main/116352_202401050941521191.jpg",
+        "title": "",
+        "translators": [],
+        "url": ""
+      }
+    ]
+}

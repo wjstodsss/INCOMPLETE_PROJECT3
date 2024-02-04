@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "authors": [],
+      "contents": "국내 탄생 1호 아기 판다로 우리에게 큰 기쁨을 주었던 푸바오가 이제 새로운 여정을 준비합니다. 《아기 판다 푸바오》가 푸바오의 탄생을, 《푸바오, 매일매일 행복해》가 푸바오의 성장을 다루었다면, 《푸바오, 언제나 사랑해》는 푸바오가 한국에서 보내는 마지막 1년의 시간을 담고 있습니다. 봄, 여름, 가을, 겨울을 지내는 동안 푸바오가 우리에게 안겨 준 행복이 책 곳곳에 듬뿍 담겨 있지요. 푸바오의 영원한 할부지 강철원 사육사는 곧 새로운 여정을 떠날",
+      "datetime": "2024-01-15T00:00:00.000+09:00",
+      "isbn": "1171253125 9791171253128",
+      "price": 23000,
+      "publisher": "시공주니어",
+      "sale_price": 20700,
+      "status": "예약판매",
+      "thumbnail": "https://search1.kakaocdn.net/thumb/R120x174.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flbook%2Fimage%2F6538161%3Ftimestamp%3D20240127145910",
+      "title": "푸바오, 언제나 사랑해",
+      "translators": [],
+      "url": "https://search.daum.net/search?w=bookpage&bookId=6538161&q=%ED%91%B8%EB%B0%94%EC%98%A4%2C+%EC%96%B8%EC%A0%9C%EB%82%98+%EC%82%AC%EB%9E%91%ED%95%B4"
+    }
+  ],
+  "meta": {
+    "is_end": false,
+    "pageable_count": 2,
+    "total_count": 2
+  }
+}
